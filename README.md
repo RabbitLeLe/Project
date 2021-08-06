@@ -10,3 +10,7 @@
  
  Variables and their names in programs have been slightly changed to protect this information. 
  
+  __________
+ 
+ Program ended on 09.2020 
+ 
